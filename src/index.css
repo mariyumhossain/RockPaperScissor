@@ -1,12 +1,12 @@
 * {
-  background-color: gray;
-  font-family: sans-serif;
-  color: white;
+  background-color: rgb(65, 127, 219);
+  font-family: round,cursive;
+  color: rgb(16, 45, 73);
+  justify-content: space-between;
 }
 
 body {
   width: 100%;
-  border: 2px solid black;
   margin: 1rem auto;
   display: flex;
   justify-content: space-evenly;
@@ -39,3 +39,11 @@ button {
   display: block;
   margin: 0 auto;
 }
+
+#chooseHand{
+  text-align: center;
+}
+
+ 
+
+
